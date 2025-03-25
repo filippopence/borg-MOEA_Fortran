@@ -1,3 +1,3 @@
-# A linkage between borg-MOEA and Fortran
+# A linkage between Borg-MOEA and Fortran
 
 Full article: link-to-WaterProgramming
